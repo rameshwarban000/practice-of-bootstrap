@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <p class="bg-success radius-top-left text-white p-5 m-2 text-justify " >
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, quae natus porro officiis maiores corrupti accusamus quasi odio, repellat ipsum expedita nam a repellendus soluta ipsam maxime. Veniam id illum optio autem. Fuga doloribus dolorem necessitatibus est et quisquam similique. Debitis beatae provident culpa est assumenda rerum reiciendis aperiam suscipit ut quo hic repellendus cum maxime nemo repellat eius sapiente obcaecati, quos in. Quam sapiente illo adipisci non saepe soluta inventore esse doloribus magnam placeat in iste voluptatem nihil nostrum enim quidem omnis deserunt a et, maiores commodi quos perferendis! Ipsam labore libero, mollitia nobis sit tenetur voluptatum excepturi quod.
+    </p>
+    <section >
+        <div class="row">
+            <p class="col-md-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ullam consequatur sapiente, ad aspernatur magni provident repellendus voluptate ducimus? Laborum ipsum ad quis sed natus cupiditate soluta, saepe odit. Asperiores?</p>
+            <p class="col-md-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. At animi sequi alias aspernatur! Dolorum accusamus necessitatibus corporis, officiis laborum veniam fugit perspiciatis iusto cumque aliquid adipisci aut quia rerum nam.</p>
+            <p class="col-md-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit atque facere eius commodi dolorum architecto sed ex earum doloribus optio libero similique ipsum, officia minima cumque quam molestiae inventore porro?</p>
+        </div>
+        <div class="row">    
+            <p class="col bg-info">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ullam consequatur sapiente, ad aspernatur magni provident repellendus voluptate ducimus? Laborum ipsum ad quis sed natus cupiditate soluta, saepe odit. Asperiores?</p>
+            <p class="col bg-danger">Lorem ipsum dolor sit amet consectetur adipisicing elit. At animi sequi alias aspernatur! Dolorum accusamus necessitatibus corporis, officiis laborum veniam fugit perspiciatis iusto cumque aliquid adipisci aut quia rerum nam.</p>
+            <p class="col bg-dark">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit atque facere eius commodi dolorum architecto sed ex earum doloribus optio libero similique ipsum, officia minima cumque quam molestiae inventore porro?</p>
+            <p class="col bg-primary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates ullam consequatur sapiente, ad aspernatur magni provident repellendus voluptate ducimus? Laborum ipsum ad quis sed natus cupiditate soluta, saepe odit. Asperiores?</p>
+            <p class="col bg-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. At animi sequi alias aspernatur! Dolorum accusamus necessitatibus corporis, officiis laborum veniam fugit perspiciatis iusto cumque aliquid adipisci aut quia rerum nam.</p>
+         
+        
+        </div>
+        <div></div>
+    </section>
+    <button class="btn-danger"> Danger</button>
+</body>
+</html>
